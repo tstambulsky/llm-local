@@ -1,3 +1,5 @@
+#Video tutorial paso a paso en video: https://www.youtube.com/watch?v=IZ6ffsLu5RM
+
 # Local ChatGPT con Memoria
 
 Esta aplicación utiliza Streamlit para crear una interfaz web interactiva que permite chatear con un modelo de lenguaje Llama 3 alojado localmente. 
